@@ -219,14 +219,14 @@ img{
     display: flex;
     justify-content: center;
     padding-top: 1rem;
-    width: 300px;
-    height: 300px;
+    width: 800px;
+    height: 800px;
     background-color: var(--first-color);
     border-radius: 50%;
     overflow: hidden;
 }
 .about__img img{
-    width: 300px;
+    width: 700px;
 }
 .about__subtitle{
     font-size: var(--h2-font-size);
